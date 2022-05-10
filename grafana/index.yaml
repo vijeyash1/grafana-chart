@@ -26,5 +26,5 @@ entries:
       type: application
       urls:
         - https://vijeyash1.github.io/grafana-chart/grafana-6.26.7.tgz
-      version: 6.26.9
+      version: 6.26.10
 generated: "2022-05-10T18:33:07.562702028+05:30"
